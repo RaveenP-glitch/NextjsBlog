@@ -1,0 +1,18 @@
+html{
+    margin: 0 auto;
+
+}
+
+#top-bar{
+    position: fixed;
+    width: 100%;
+
+
+}
+
+#top-bar-btn{
+    border-radius: 25px;
+    width: 4rem;
+    height: 1.2rem;
+    
+}
