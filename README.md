@@ -1,1 +1,1 @@
-# zorrosign
+# nexjs-blog-app with sanity-v3
