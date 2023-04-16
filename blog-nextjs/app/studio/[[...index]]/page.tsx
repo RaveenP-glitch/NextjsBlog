@@ -8,3 +8,5 @@ export default function StudioPage() {
   //  Supports the same props as `import {Studio} from 'sanity'`, `config` is required
   return <NextStudio config={config} />
 }
+
+//npm create sanity@latest -- --template get-started --project 3vthmbip --dataset production --provider google

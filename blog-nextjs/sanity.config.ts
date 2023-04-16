@@ -8,13 +8,11 @@ const dataset = process.env.NEXT_PUBLIC_SANITY_DATASET!;
 
 export default defineConfig({
   basePath: "/studio",
-  name: 'TRP_Blog',
-  title: 'nextjs13-sanityblog',
+  name: "nextjs13-sanityblog",
+  title: "nextjs13 sanityblog",
   projectId,
   dataset,
-
   plugins: [deskTool(), visionTool()],
-
   schema: {
     types: schemaTypes,
   },
